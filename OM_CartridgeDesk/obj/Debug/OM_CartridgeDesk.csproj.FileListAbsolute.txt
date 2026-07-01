@@ -1,0 +1,17 @@
+C:\Users\Lutikov_DA\source\repos\OM_CartridgeDesk\OM_CartridgeDesk\bin\Debug\OM_CartridgeDesk.exe.config
+C:\Users\Lutikov_DA\source\repos\OM_CartridgeDesk\OM_CartridgeDesk\bin\Debug\OM_CartridgeDesk.exe
+C:\Users\Lutikov_DA\source\repos\OM_CartridgeDesk\OM_CartridgeDesk\bin\Debug\OM_CartridgeDesk.pdb
+C:\Users\Lutikov_DA\source\repos\OM_CartridgeDesk\OM_CartridgeDesk\obj\Debug\OM_CartridgeDesk.csproj.AssemblyReference.cache
+C:\Users\Lutikov_DA\source\repos\OM_CartridgeDesk\OM_CartridgeDesk\obj\Debug\OM_CartridgeDesk.Properties.Resources.resources
+C:\Users\Lutikov_DA\source\repos\OM_CartridgeDesk\OM_CartridgeDesk\obj\Debug\OM_CartridgeDesk.csproj.GenerateResource.cache
+C:\Users\Lutikov_DA\source\repos\OM_CartridgeDesk\OM_CartridgeDesk\obj\Debug\OM_CartridgeDesk.csproj.CoreCompileInputs.cache
+C:\Users\Lutikov_DA\source\repos\OM_CartridgeDesk\OM_CartridgeDesk\obj\Debug\OM_CartridgeDesk.exe
+C:\Users\Lutikov_DA\source\repos\OM_CartridgeDesk\OM_CartridgeDesk\obj\Debug\OM_CartridgeDesk.pdb
+C:\Users\Lutikov_DA\source\repos\OM_CartridgeDesk\OM_CartridgeDesk\obj\Debug\OM_CartridgeDesk.OpClient.resources
+C:\Users\Lutikov_DA\source\repos\OM_CartridgeDesk\OM_CartridgeDesk\obj\Debug\OM_CartridgeDesk.UserClient.resources
+C:\Users\Lutikov_DA\source\repos\OM_CartridgeDesk\OM_CartridgeDesk\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.dll
+C:\Users\Lutikov_DA\source\repos\OM_CartridgeDesk\OM_CartridgeDesk\bin\Debug\System.ValueTuple.dll
+C:\Users\Lutikov_DA\source\repos\OM_CartridgeDesk\OM_CartridgeDesk\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.pdb
+C:\Users\Lutikov_DA\source\repos\OM_CartridgeDesk\OM_CartridgeDesk\obj\Debug\OM_Cartr.592D8A79.Up2Date
+C:\Users\Lutikov_DA\source\repos\OM_CartridgeDesk\OM_CartridgeDesk\obj\Debug\OM_CartridgeDesk.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lutikov_DA\source\repos\OM_CartridgeDesk\OM_CartridgeDesk\obj\Debug\OM_CartridgeDesk.exe.config
